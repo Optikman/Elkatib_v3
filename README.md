@@ -4,8 +4,8 @@
 
 # Setup
 
- 1- start setup.exe
- 2- continue setup as normal 
+ 1- start setup.exe \n
+ 2- continue setup as normal \n
  3- after finish > you can restart you computer || or  signout and sighin again
 
 
